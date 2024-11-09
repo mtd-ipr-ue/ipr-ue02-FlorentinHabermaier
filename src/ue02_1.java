@@ -1,6 +1,11 @@
 import libraries.In;
 import libraries.Out;
 
+/*
+ * Erstellen Sie ein Java-Programm, welches drei ganze Zahlen (int) einliest und
+ * das Maximum der drei Werte ausgibt
+ */
+
 public class ue02_1 {
     public static void main(String[] args) {
 

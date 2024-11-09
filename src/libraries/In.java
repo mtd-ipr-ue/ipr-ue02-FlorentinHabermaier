@@ -31,4 +31,9 @@ public class In {
             return 0;
         }
     }
+
+    public static char readChar() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'readChar'");
+    }
 }

@@ -1,6 +1,19 @@
 import libraries.In;
 import libraries.Out;
 
+/*
+ * Erstellen Sie ein Java-Programm, welches eine Jahreszahl und einen
+ * Monats-Wert zwischen 1 und 12 einliest und die Anzahl der Tage des
+ * zugehörigen Monats wieder ausgibt. Verwenden Sie eine
+ * „switch/case“-Anweisung.
+ * Beachten Sie auch die Schaltjahres-Regel für den Februar: Ein Schaltjahr ist
+ * alle vier Jahre, jedoch alle 100 Jahre nicht, dann aber alle 400 Jahre doch.
+ * Beispiel Schaltjahre: 1988, 2000, 2020
+ * Beispiel Nicht-Schaltjahre: 1900, 1999, 2022
+ * Überprüfen Sie auch, ob die eingegebenen Werte im gültigen Bereich liegen,
+ *und geben Sie ansonsten eine Fehlermeldung aus.
+ */
+
 public class ue02_2 {
     public static void main(String[] args) {
 
